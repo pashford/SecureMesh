@@ -1,0 +1,9 @@
+words-*
+shuffle.pl
+bin/*
+*.log
+*.pdf
+*.aux
+.*.swp
+*.o
+*~
